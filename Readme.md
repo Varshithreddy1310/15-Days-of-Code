@@ -1,18 +1,5 @@
-# 👋 Welcome to Vision CSE  
+## 13 Oct 2025
 
-This repository is for the **15 Days of Code Challenge** organized by **Vision CSE** 🚀  
-
-## 📌 About the Challenge
-- Duration: **15 Days**
-- Goal: Code every day and build consistency  
-- Task: Fork this repository, and update your progress here!  
-
-## ✅ How to Participate
-1. **Fork** this repository.  
-2. **Edit this README** file in your fork.  
-3. Document your progress daily:  
-   - Add a short note on what you did  
-   - Attach screenshots or  
-   - Add links to your code submissions/projects  
-
-4. Keep pushing your changes every day!  
+1. Codeforces [Question](https://codeforces.com/contest/2160/problem/C) [Submission](https://codeforces.com/contest/2160/submission/343547461)<br>
+2. Codeforces [Question](https://codeforces.com/contest/2055/problem/A) [Submission](https://codeforces.com/contest/2055/submission/343570118)<br>
+3. LeetCode [Question](https://leetcode.com/problems/climbing-stairs/description/) [Submission](https://leetcode.com/submissions/detail/1800426764/)
