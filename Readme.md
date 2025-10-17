@@ -27,3 +27,19 @@ Solution link: https://codeforces.com/contest/2043/submission/343892999<br>
 3) Solved a LeetCode question<br>
 Problem link: https://leetcode.com/problems/valid-palindrome-ii/<br>
 Solution link: https://leetcode.com/submissions/detail/1802510287/
+
+## 17 Oct 2025 (Day 4)
+1) Solved a Codeforces Question on 16 Oct (Rest of the day, I was travelling)
+Problem link: https://codeforces.com/contest/1900/problem/A
+Solution link: https://codeforces.com/contest/1900/submission/344003512
+
+2) Solved a Leetcode question - Boats to Save People
+Problem link: https://leetcode.com/problems/boats-to-save-people/
+Solution link: https://leetcode.com/submissions/detail/1804215349/
+
+3)Attempted Codeforces Contest and solved 2 questions
+Problem A - https://codeforces.com/contest/2162/problem/A
+Solution - https://codeforces.com/contest/2162/submission/344203687
+
+4)Problem B - https://codeforces.com/contest/2162/problem/B
+Solution - https://codeforces.com/contest/2162/submission/344219170
