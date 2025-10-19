@@ -59,3 +59,19 @@ Solution link: https://codeforces.com/contest/1869/submission/344538245<br>
 
 Watched a video for learning Bitwise operators fundamentals and tricks for Codeforces<br>
 Video link: https://www.youtube.com/watch?v=LGrE0siZ-ZA<br>
+
+## 19 Oct 2025 (Day 6)
+1)Solved a Leetcode Dp problem<br>
+Problem link: https://leetcode.com/problems/house-robber-ii/<br>
+Solution link: https://leetcode.com/submissions/detail/1805475238/<br>
+
+2)Solved a 1400 rated interactive problem<br>
+Problem link: https://codeforces.com/contest/727/problem/C<br>
+Solution link: https://codeforces.com/contest/727/submission/344602540<br>
+
+3)Solved a Codeforces Problem<br>
+Problem link: https://codeforces.com/contest/1881/problem/A<br>
+Solution link: https://codeforces.com/contest/1881/submission/344747245<br>
+
+4)Watched a lecture on Dp of Striver<br>
+Lecture link: https://www.youtube.com/watch?v=AE39gJYuRog&t=62s<br>
