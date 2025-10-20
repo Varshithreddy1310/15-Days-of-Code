@@ -75,3 +75,22 @@ Solution link: https://codeforces.com/contest/1881/submission/344747245<br>
 
 4)Watched a lecture on Dp of Striver<br>
 Lecture link: https://www.youtube.com/watch?v=AE39gJYuRog&t=62s<br>
+
+## 20 Oct 2025 (Day 7)
+Solved Yesterday's contest's problems<br>
+1)Problem A link: https://codeforces.com/contest/2154/problem/A<br>
+Solution link: https://codeforces.com/contest/2154/submission/344794644<br>
+
+2)Problem B link: https://codeforces.com/contest/2154/problem/B<br>
+Solution link: https://codeforces.com/contest/2154/submission/344831338<br>
+
+3)Solved a Codeforces problem<br>
+Problem link: https://codeforces.com/contest/1632/problem/B<br>
+Solution link: https://codeforces.com/contest/1632/submission/344911405<br>
+
+4)Solved POTD in Leetcode<br>
+Problem link: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/<br>
+Solution link: https://leetcode.com/submissions/detail/1806896959/<br>
+
+5)Watched 1 hour of HTML lecture<br>
+Lecture link: https://www.youtube.com/watch?v=HcOc7P5BMi4&t=1341s<br>
