@@ -94,3 +94,35 @@ Solution link: https://leetcode.com/submissions/detail/1806896959/<br>
 
 5)Watched 1 hour of HTML lecture<br>
 Lecture link: https://www.youtube.com/watch?v=HcOc7P5BMi4&t=1341s<br>
+
+## 21 Oct 2025 (Day 8)
+1)Solved a Codeforces Problem<br>
+Problem link: https://codeforces.com/problemset/problem/2110/A<br>
+Solution link: https://codeforces.com/contest/2110/submission/345075291<br>
+
+2)Watched Complete HTML video (2 hours)<br>
+Lecture link: https://www.youtube.com/watch?v=HcOc7P5BMi4<br>
+
+Solved CodeChef Problems<br>
+
+3)Problem link: https://www.codechef.com/problems/SPRCLN<br>
+ Solution link: https://www.codechef.com/viewsolution/1200346460<br>
+
+ 4)Problem link: https://www.codechef.com/problems/DIWALIDISC<br>
+ Solution link: https://www.codechef.com/viewsolution/1200346821<br>
+
+ 5)Problem link: https://www.codechef.com/problems/SBTG<br>
+ Solution link: https://www.codechef.com/viewsolution/1200349787<br>
+
+ 6)Problem link: https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/AVGPERM<br>
+ Solution link: https://www.codechef.com/viewsolution/1200452957<br>
+
+ 7)Problem link: https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/CHFHEIST<br>
+ Solution link: https://www.codechef.com/viewsolution/1200457732<br>
+
+ 8)Problem link: https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/AVGARR<br>
+ Solution link: https://www.codechef.com/viewsolution/1200459202<br>
+
+ 9)Solved a Leetcode Problem<br>
+ Problem link: https://leetcode.com/problems/is-subsequence/<br>
+ Solution link: https://leetcode.com/submissions/detail/1807791198/<br>
