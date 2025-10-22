@@ -126,3 +126,22 @@ Solved CodeChef Problems<br>
  9)Solved a Leetcode Problem<br>
  Problem link: https://leetcode.com/problems/is-subsequence/<br>
  Solution link: https://leetcode.com/submissions/detail/1807791198/<br>
+
+ ## 22 Oct 2025 (Day 9)
+ 1)Solved a problem in Codeforces<br>
+ Problem link: https://codeforces.com/contest/1721/problem/B<br>
+ Solution link: https://codeforces.com/contest/1721/submission/345122661<br>
+
+ Solved few Codechef Problems<br>
+ 2)Problem link: https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/CHEFDINE<br>
+ Solution link: https://www.codechef.com/viewsolution/1200612369<br>
+
+ Attempted Codechef contest and solved 4 problems<br>
+ Problem 3 link:https://www.codechef.com/START209D/problems/P3209<br>
+ Solution link: https://www.codechef.com/viewsolution/1200697530<br>
+
+ Problem 4 link: https://www.codechef.com/START209D/problems/P4209<br>
+ Solution link: https://www.codechef.com/viewsolution/1200822675<br>
+
+ 3)Watched 1 hour of CSS lecture <br>
+ Lecture link: https://www.youtube.com/watch?v=ESnrn1kAD4E<br> 
