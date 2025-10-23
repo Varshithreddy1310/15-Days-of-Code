@@ -145,3 +145,33 @@ Solved CodeChef Problems<br>
 
  3)Watched 1 hour of CSS lecture <br>
  Lecture link: https://www.youtube.com/watch?v=ESnrn1kAD4E<br> 
+
+  ## 23 Oct 2025 (Day 10)
+ 1)Solved POTD in Leetcode<br>
+ Problem link: https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/<br>
+ Solution link: https://leetcode.com/submissions/detail/1809082480/<br>
+
+ 2)Solved a problem in Codeforces<br>
+ Problem link: https://codeforces.com/contest/2093/problem/C<br>
+ Solution link: https://codeforces.com/contest/2093/submission/345389657<br>
+
+ 3)Solved a problem in Codeforces<br>
+ Problem link: https://codeforces.com/contest/2086/problem/B<br>
+ Solution link: https://codeforces.com/contest/2086/submission/345393743<br>
+
+ 4)Solved a problem in Codeforces<br>
+ Problem link: https://codeforces.com/contest/1899/problem/B<br>
+ Solution link: https://codeforces.com/contest/1899/submission/345400831<br>
+
+ Solved few Codechef Problems<br>
+ 5)Problem link: https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/SMOKE<br>
+ Solution link: https://www.codechef.com/viewsolution/1200902785<br>
+
+ 6)Problem link: https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/N1VALUES<br>
+ Solution link: https://www.codechef.com/viewsolution/1200910004<br>
+
+ 7)Problem link: https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/MAKEPAL<br>
+ Solution link: https://www.codechef.com/viewsolution/1201107413<br>
+
+ 8)Watched 2 hour of CSS lecture <br>
+ Lecture link: https://www.youtube.com/watch?v=ESnrn1kAD4E<br> 
