@@ -175,3 +175,23 @@ Solved CodeChef Problems<br>
 
  8)Watched 2 hour of CSS lecture <br>
  Lecture link: https://www.youtube.com/watch?v=ESnrn1kAD4E<br> 
+
+ ## 24 Oct 2025 (Day 11)
+ 1)Solved POTD in Leetcode<br>
+ Problem link: https://leetcode.com/problems/next-greater-numerically-balanced-number/?envType=daily-question&envId=2025-10-24<br>
+ Solution link: https://leetcode.com/submissions/detail/1810197025/<br>
+
+ Solved few Codechef Problems<br>
+ 1)Problem link: https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/REMELEM<br>
+ Solution link: https://www.codechef.com/viewsolution/1201290132<br>
+
+ Attempted Codeforces contest and solved 2 questions<br>
+ 1)Problem A: https://codeforces.com/contest/2156/problem/A<br>
+ Solution : https://codeforces.com/contest/2156/submission/345525633<br>
+
+ 2)Problem B: https://codeforces.com/contest/2156/problem/B<br>
+ Solution : https://codeforces.com/contest/2156/submission/345615797<br>
+
+ Solved 1 Codeforces problem<br>
+ Problem: https://codeforces.com/contest/1832/problem/B<br>
+ Solution: https://codeforces.com/contest/1832/submission/345488854<br>
