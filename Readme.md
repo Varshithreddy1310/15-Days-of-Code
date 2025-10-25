@@ -195,3 +195,19 @@ Solved CodeChef Problems<br>
  Solved 1 Codeforces problem<br>
  Problem: https://codeforces.com/contest/1832/problem/B<br>
  Solution: https://codeforces.com/contest/1832/submission/345488854<br>
+
+  ## 25 Oct 2025 (Day 12)
+ 1)Solved POTD in Leetcode<br>
+ Problem link:https://leetcode.com/problems/calculate-money-in-leetcode-bank/<br>
+ Solution link: https://leetcode.com/submissions/detail/1811405557/<br>
+
+ Solved 1 Codechef Problem<br>
+ 2)Problem link: https://www.codechef.com/problems/ALJMP<br>
+ Solution link: https://www.codechef.com/viewsolution/1201660355<br>
+
+Solved 1 Codeforces Problem from TLE sheet<br>
+ 3)Problem : https://codeforces.com/contest/1857/problem/A<br>
+ Solution : https://codeforces.com/contest/1857/submission/345780142<br>
+
+4)Watched 1 hour of CSS lecture <br>
+ Lecture link: https://www.youtube.com/watch?v=ESnrn1kAD4E<br> 
