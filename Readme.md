@@ -211,3 +211,19 @@ Solved 1 Codeforces Problem from TLE sheet<br>
 
 4)Watched 1 hour of CSS lecture <br>
  Lecture link: https://www.youtube.com/watch?v=ESnrn1kAD4E<br> 
+
+   ## 26 Oct 2025 (Day 13)
+ 1)Solved POTD in Leetcode<br>
+ Problem link:https://leetcode.com/problems/simple-bank-system/<br>
+ Solution link: https://leetcode.com/submissions/detail/1812221158/<br>
+
+ Solved 1 Codechef Problem<br>
+ 2)Problem link: https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/MKGPLNKS<br>
+ Solution link: https://www.codechef.com/viewsolution/1201863344<br>
+
+Solved 1 Codeforces Problem from TLE sheet<br>
+ 3)Problem : https://codeforces.com/contest/1942/problem/B<br>
+ Solution : https://codeforces.com/contest/1942/submission/345927302<br>
+
+4)Watched 1 hour of CSS lecture <br>
+ Lecture link: https://www.youtube.com/watch?v=ESnrn1kAD4E<br> 
