@@ -227,3 +227,25 @@ Solved 1 Codeforces Problem from TLE sheet<br>
 
 4)Watched 1 hour of CSS lecture <br>
  Lecture link: https://www.youtube.com/watch?v=ESnrn1kAD4E<br> 
+
+  ## 28 Oct 2025 (Day 14)
+1)Solved POTD in Leetcode<br>
+ Problem link:https://leetcode.com/problems/make-array-elements-equal-to-zero/<br>
+ Solution link: https://leetcode.com/submissions/detail/1813694824/<br>
+
+ 2)Solved Yesterday's POTD in Leetcode<br>
+ Problem link:https://leetcode.com/problems/number-of-laser-beams-in-a-bank/<br>
+ Solution link: https://leetcode.com/submissions/detail/1813218535/<br>
+
+ Solved 1 Codechef Problem<br>
+ 2)Problem link: https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/CHEFFED<br>
+ Solution link: https://www.codechef.com/viewsolution/1202129326<br>
+
+Attempted Codeforces Contest<br>
+Solved 3 problems<br>
+1)https://codeforces.com/contest/2167/submission/346184381<br>
+2)https://codeforces.com/contest/2167/submission/346195762<br>
+3)https://codeforces.com/contest/2167/submission/346221009<br>
+
+4)Watched 1 hour of CSS lecture <br>
+ Lecture link: https://www.youtube.com/watch?v=ESnrn1kAD4E<br> 
