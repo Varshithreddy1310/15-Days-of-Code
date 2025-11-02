@@ -249,3 +249,13 @@ Solved 3 problems<br>
 
 4)Watched 1 hour of CSS lecture <br>
  Lecture link: https://www.youtube.com/watch?v=ESnrn1kAD4E<br> 
+
+ ## 02 Nov 2025 (Day 15)
+ Solved POTD in Leetcode of
+ 1) 29th oct  https://leetcode.com/submissions/detail/1815038230/
+ 2) 31st oct   https://leetcode.com/submissions/detail/1816471337/
+
+ Solved few Codeforces Questions
+ 3)https://codeforces.com/contest/1991/submission/346616494
+ 4)https://codeforces.com/contest/2161/submission/346672800
+ 5)https://codeforces.com/contest/2057/submission/347122421
